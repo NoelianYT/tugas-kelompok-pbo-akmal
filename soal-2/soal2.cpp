@@ -99,7 +99,7 @@ class Waktu {
         }
 
         void printOut() {
-            cout << "Lama Selisih: " << tahun << " tahun, " << bulan << " bulan, " << hari << " hari, " << jam << " jam, " << menit << " menit, " << detik << " detik" << endl;
+            cout << "Lama Perjalanan: " << tahun << " tahun, " << bulan << " bulan, " << hari << " hari, " << jam << " jam, " << menit << " menit, " << detik << " detik" << endl;
         }
 };
 

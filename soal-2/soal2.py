@@ -78,7 +78,7 @@ class Waktu:
 
     # Menampilkan selisih waktu
     def display_selisih(self):
-        print(f"Lama Selisih: {self.__tahun} tahun, {self.__bulan} bulan, {self.__hari} hari, "
+        print(f"Lama Perjalanan: {self.__tahun} tahun, {self.__bulan} bulan, {self.__hari} hari, "
               f"{self.__jam} jam, {self.__menit} menit, {self.__detik} detik")
 
     # Getter untuk atribut private

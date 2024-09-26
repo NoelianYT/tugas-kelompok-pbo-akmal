@@ -104,7 +104,7 @@ class Waktu {
     }
 
     public void printOut() {
-        System.out.println("Lama Selisih: " + this.tahun + " tahun, " + this.bulan + " bulan, " +
+        System.out.println("Lama Perjalanan: " + this.tahun + " tahun, " + this.bulan + " bulan, " +
                 this.hari + " hari, " + this.jam + " jam, " + this.menit + " menit, " + this.detik + " detik");
     }
 }
